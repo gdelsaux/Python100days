@@ -10,7 +10,7 @@ computer_score = 0
 
 def who_wins_final():
   if computer_score == user_score:
-    print("We have a draw")
+1    print("We have a draw")
     return
   winner = "Computer wins!" if computer_score > user_score else "You win!"
   print(f"{winner}")
