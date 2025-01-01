@@ -10,44 +10,32 @@ This repository is dedicated to a 100-day coding challenge aimed at learning and
 
 Here are some example projects included in this repository:
 
-### Day 3: 
+### Day 3:
+<ul>
+   <li>
+      <a href="https://github.com/gdelsaux/Python100days/blob/main/day3/projects/Treasure%20Island/README.md">Treasure Island</a>
+   </li>
+</ul>
 
-<details>
-<summary>Treasure Island</summary>
-<br />
-<div>A small program simulating an adventure game where each step may take you to the next one or end the game. <a href="https://github.com/gdelsaux/Python100days/blob/main/day3/projects/Treasure%20Island/main.py">code</a></div>
-<br />
-<img src="day3/projects/Treasure%20Island/flowchart.png" alt="Description of image" width="500" height="500">
-
-</details>
-
-### Day 4: 
-
-<details>
-<summary>Heads or Tails</summary>
-<br />
-<div>A programe to play heads or tails <a href="https://github.com/gdelsaux/Python100days/blob/main/day4/projects/head%20or%20tail/main.py">code</a></div>
-
-</details>
-<br />
-<details>
-<summary>Rock, Paper, Scissors</summary>
-<br />
-<div>play the classic game <a href="https://github.com/gdelsaux/Python100days/blob/main/day4/projects/rock%20or%20tpaper%20scissors/main.py">code</a></div>
-</details>
-<br />
-<details>
-<summary>Who Will Pay the Bil</summary>
-<br />
-<div>A program that selects a person to pay the bill using lists and randomization techniques. <a href="https://github.com/gdelsaux/Python100days/blob/main/day4/projects/rock%20or%20tpaper%20scissors/main.py">code</a></div>
-</details>
+### Day 4:
+<ul>
+   <li>
+      <a href="https://github.com/gdelsaux/Python100days/blob/main/day4/projects/head%20or%20tail/README.md">Heads or Tails</a>
+   </li>
+   <li>
+      <a href="https://github.com/gdelsaux/Python100days/blob/main/day4/projects/rock%20or%20tpaper%20scissors/README.md">Rock, Paper, Scissors</a>
+   </li>
+   <li>
+      <a href="https://github.com/gdelsaux/Python100days/blob/main/day4/projects/Who%20will%20pay%20the%20bill/README.md">Who Will Pay the Bil?</a>
+   </li>
+</ul>
 
 ### Day 5:
-<details>
-<summary>Password Generator</summary>
-<br />
-<div>A password generator according to a user's request <a href="https://github.com/gdelsaux/Python100days/tree/main/day5/projects/password%20generator">code</a></div>
-</details>
+<ul>
+   <li>
+      <a href="https://github.com/gdelsaux/Python100days/tree/main/day5/projects/password%20generator/README.md">Password Generator</a>
+   </li>
+</ul>
 
 ## How to Use
 
