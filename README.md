@@ -23,7 +23,7 @@ Here are some example projects included in this repository:
       <a href="https://github.com/gdelsaux/Python100days/blob/main/day4/projects/head%20or%20tail/README.md">Heads or Tails</a>
    </li>
    <li>
-      <a href="https://github.com/gdelsaux/Python100days/blob/main/day4/projects/rock%20or%20tpaper%20scissors/README.md">Rock, Paper, Scissors</a>
+      <a href="https://github.com/gdelsaux/Python100days/blob/main/day4/projects/rock%20paper%20scissors/README.md">Rock, Paper, Scissors</a>
    </li>
    <li>
       <a href="https://github.com/gdelsaux/Python100days/blob/main/day4/projects/Who%20will%20pay%20the%20bill/README.md">Who Will Pay the Bil?</a>
