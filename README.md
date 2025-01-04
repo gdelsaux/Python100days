@@ -37,6 +37,13 @@ Here are some example projects included in this repository:
    </li>
 </ul>
 
+### Day 6:
+<ul>
+   <li>
+      <a href="https://github.com/gdelsaux/Python100days/tree/main/day6/projects/reeborg%20maze/README.md">Lost in a maze</a>
+   </li>
+</ul>
+
 ## How to Use
 
 1. Clone the repository:
