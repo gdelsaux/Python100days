@@ -47,14 +47,14 @@ Here are some example projects included in this repository:
 ### Day 7:
 <ul>
    <li>
-      <a href="https://github.com/gdelsaux/Python100days/tree/main/day7/projects/readme.md">Hangman</a>
+      <a href="https://github.com/gdelsaux/Python100days/tree/main/day7/projects/hangman/readme.md">Hangman</a>
    </li>
 </ul>
 
 ### Day 7:
 <ul>
    <li>
-      <a href="https://github.com/gdelsaux/Python100days/tree/main/day8/projects/readme.md">Ceasar Cypher</a>
+      <a href="https://github.com/gdelsaux/Python100days/tree/main/day8/projects/ceasar_cypher/readme.md">Ceasar Cypher</a>
    </li>
 </ul>
 
