@@ -51,7 +51,7 @@ Here are some example projects included in this repository:
    </li>
 </ul>
 
-### Day 7:
+### Day 8:
 <ul>
    <li>
       <a href="https://github.com/gdelsaux/Python100days/tree/main/day8/projects/ceasar_cypher/readme.md">Ceasar Cypher</a>
