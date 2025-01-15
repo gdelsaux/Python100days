@@ -44,6 +44,20 @@ Here are some example projects included in this repository:
    </li>
 </ul>
 
+### Day 7:
+<ul>
+   <li>
+      <a href="https://github.com/gdelsaux/Python100days/tree/main/day7/projects/readme.md">Hangman</a>
+   </li>
+</ul>
+
+### Day 7:
+<ul>
+   <li>
+      <a href="https://github.com/gdelsaux/Python100days/tree/main/day8/projects/readme.md">Ceasar Cypher</a>
+   </li>
+</ul>
+
 ## How to Use
 
 1. Clone the repository:
